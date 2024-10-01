@@ -6,7 +6,7 @@ PhD Student
 
 I'm a Electronic Engineer and PhD student in Zaragoza, Spain, in the field of computer vision. My expertise lies in the fields of robotics, engineering, programming, and now I specialize in developing sensor's fusion algorithms with the aim of improving navigation systems.
 
-Here you can find my personal website:  https://samuelcerezoo.github.io/
+Here you can find my personal website:  https://samuel-cerezo.github.io/
 
 Get in touch!
 ----------
