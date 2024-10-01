@@ -16,7 +16,7 @@ Get in touch!
 What I'm working on
 ----------
 
-🚀 Currently, I'm doing a PhD internship at KUKA - KUKA Deutschland GmbH, Augsburg.
+🚀 Currently, I'm doing a PhD internship at KUKA Deutschland GmbH, Augsburg.
 
 Let's collaborate!
 ----------
