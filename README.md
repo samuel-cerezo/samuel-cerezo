@@ -24,7 +24,7 @@ Let's collaborate!
 🤝 I'm open to collaborating on projects related to my field. If you have an interesting project in mind, feel free to contact me. I'd be happy to discuss the possibilities.
 
 
-<a href="https://www.twitter.com/samu_cerezo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/samu_cerezo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/samuelcerezoo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/samuelcerezoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.twitter.com/samu_cerezo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/samu_cerezo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/samuel-cerezo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/samuel-cerezo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   
                     
 ### Programming languages
