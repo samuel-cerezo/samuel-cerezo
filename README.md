@@ -16,7 +16,7 @@ Get in touch!
 What I'm working on
 ----------
 
-🚀 Recently, I stayed as a PhD visitor at KUKA Deutschland GmbH, Augsburg during 1 year.
+🚀 Recently, I am finishing my PhD thesis.
 
 Let's collaborate!
 ----------
