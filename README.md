@@ -16,7 +16,7 @@ Get in touch!
 What I'm working on
 ----------
 
-🚀 Recently, I am finishing my PhD thesis.
+🚀 I am focused on finishing my PhD thesis.
 
 Let's collaborate!
 ----------
