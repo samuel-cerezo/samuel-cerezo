@@ -1,10 +1,9 @@
-Hi there! 👋
+Hi there! I'm Samuel Cerezo 👋
 =============================
 
-PhD Student
 ----------
 
-I'm an Electronic Engineer doing a PhD in computer vision. My expertise lies in the fields of robotics, engineering, programming, and now I specialize in developing sensor's fusion algorithms with the aim of improving navigation systems.
+Electronic Engineer and researcher with international experience in Argentina, Spain, and Germany. Formerly in the oil industry, now completing a Ph.D. in Systems Engineering and Computer Science under Prof. Javier Civera’s supervision. Skilled in C++, Python, and MATLAB, with a strong focus on real-time systems, optimization, and modular design. Passionate about turning technology advances into robust, deployable solutions.
 
 Here you can find my personal website:  https://samuel-cerezo.github.io/
 
@@ -16,7 +15,7 @@ Get in touch!
 What I'm working on
 ----------
 
-🚀 I am focused on finishing my PhD thesis.
+🚀 At the moment, I'm focused on finishing my PhD thesis.
 
 Let's collaborate!
 ----------
